@@ -1,1 +1,2 @@
-# connect
+in the android>build.gradle file i have changed the ndkVersion version to "23.1.7779620"
+and in android>gradle.properties file i have added the org.gradle.java.home(jdk version path) =C:\\Program Files\\Java\\jdk-17, if you don't need to provide the path then you can change
